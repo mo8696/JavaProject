@@ -1,10 +1,12 @@
 
 
 
-#Java Weather Application
+##Java Weather Application
+
 This Java application fetches weather data from the OpenWeatherMap API based on user input (city name) and displays the weather information in the console.
 
-#Features
+##Features
+
 Retrieves current weather data (temperature, humidity, etc.) for a specified city.
 Simple console-based interface for user interaction.
 Error handling for API communication and user input.
